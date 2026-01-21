@@ -1,9 +1,5 @@
 # your-personal-therapist
-Here’s a **professional README.md** you can use for your **personal_therapy_assistant** GitHub repository. I wrote this based on the repo description (a chatbot built with Groq API, memory, and Streamlit UI) and general README best practices. ([GitHub][1])
 
----
-
-````markdown
 # Personal Therapy Assistant 🤖🧠
 
 A conversational therapy-style chatbot built with the **Groq API**, designed to provide supportive and context-aware responses based on prior interactions. The app uses **Streamlit** for its user interface and implements memory so the assistant can respond with continuity across multiple user messages. :contentReference[oaicite:1]{index=1}
