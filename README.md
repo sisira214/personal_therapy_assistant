@@ -2,8 +2,7 @@
 
 # Personal Therapy Assistant 🤖🧠
 
-A conversational therapy-style chatbot built with the **Groq API**, designed to provide supportive and context-aware responses based on prior interactions. The app uses **Streamlit** for its user interface and implements memory so the assistant can respond with continuity across multiple user messages. :contentReference[oaicite:1]{index=1}
-
+A conversational therapy-style chatbot built with the **Groq API**, designed to provide supportive and context-aware responses based on prior interactions. The app uses **Streamlit** for its user interface and implements memory so the assistant can respond with continuity across multiple user messages. 
 
 ## 🔍 About
 
