@@ -4,21 +4,6 @@
 
 A conversational therapy-style chatbot built with the **Groq API**, designed to provide supportive and context-aware responses based on prior interactions. The app uses **Streamlit** for its user interface and implements memory so the assistant can respond with continuity across multiple user messages. :contentReference[oaicite:1]{index=1}
 
----
-
-## 🧩 Table of Contents
-
-- [About](#about)  
-- [Features](#features)  
-- [Demo / Screenshots](#demo--screenshots)  
-- [📦 Tech Stack](#tech-stack)  
-- [🚀 Getting Started](#getting-started)  
-- [💡 Usage](#usage)  
-- [📁 Project Structure](#project-structure)  
-- [🔧 Contributing](#contributing)  
-- [🛡️ License](#license)
-
----
 
 ## 🔍 About
 
@@ -34,11 +19,6 @@ A conversational therapy-style chatbot built with the **Groq API**, designed to 
 ✔️ Clean UI using Streamlit  
 ✔️ Simple, extensible design for further experimentation
 
----
-
-## 📷 Demo / Screenshots
-
-*(Add screenshots here if available — e.g., UI in action, conversation history, etc.)*
 
 ---
 
