@@ -1,4 +1,3 @@
-# your-personal-therapist
 
 # Personal Therapy Assistant 🤖🧠
 
